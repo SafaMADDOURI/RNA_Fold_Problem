@@ -1,5 +1,5 @@
 
-### Creation of an objective function for the RNA folding problem
+# Creation of an objective function for the RNA folding problem
 
 
 For a given ribonucleotide chain, the RNA folding problem consists in finding the native fold among the astronomically large number of possible conformations. The native fold is the one with the lowest Gibbs free energy, the objective function should be an estimator of this energy.
